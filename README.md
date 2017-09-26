@@ -10,7 +10,7 @@ This requires the AWS CLI tools to be configured on the machine running the scri
     
 ## Usage examples
 
-* EXAMPLE
+* awssh my_opsworks_instance my_ec2_hostname
 
 ## Development
 
